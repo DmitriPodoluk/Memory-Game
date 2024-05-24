@@ -1,0 +1,24 @@
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\bin\Debug\main.exe.config
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\bin\Debug\main.exe
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\bin\Debug\main.pdb
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\bin\Debug\Project1.dll
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\bin\Debug\Project1.pdb
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\bin\Debug\Project1.dll.config
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\obj\Debug\Ex05_ui.csproj.AssemblyReference.cache
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\obj\Debug\Ex05_ui.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\obj\Debug\Ex05_ui.csproj.CoreCompileInputs.cache
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\obj\Debug\Ex05_ui.csproj.CopyComplete
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\obj\Debug\main.exe
+C:\Users\dimap\Downloads\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\C22 Ex05 YehezkelShahani 203001557 DimitriPodoluk 317059244\Project5\main\obj\Debug\main.pdb
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\bin\Debug\main.exe.config
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\bin\Debug\main.exe
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\bin\Debug\main.pdb
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\bin\Debug\Project1.dll
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\bin\Debug\Project1.pdb
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\bin\Debug\Project1.dll.config
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\obj\Debug\Ex05_ui.csproj.AssemblyReference.cache
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\obj\Debug\Ex05_ui.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\obj\Debug\Ex05_ui.csproj.CoreCompileInputs.cache
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\obj\Debug\Ex05_ui.csproj.CopyComplete
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\obj\Debug\main.exe
+C:\Users\dimap\Downloads\final project C#\final project C#\Project5\main\obj\Debug\main.pdb
